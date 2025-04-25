@@ -10,7 +10,7 @@
         <mxCell id="5vvTPAoiWWBv6RV2Danz-1" value="探索性数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vvTPAoiWWBv6RV2Danz-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5vvTPAoiWWBv6RV2Danz-2" value="数据建模与特征提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
