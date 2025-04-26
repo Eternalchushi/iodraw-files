@@ -37,6 +37,15 @@
         <mxCell id="45QVfa8bo4PqeAlVVx9p-6" value="查看报告总结" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="45QVfa8bo4PqeAlVVx9p-12" target="45QVfa8bo4PqeAlVVx9p-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="45QVfa8bo4PqeAlVVx9p-12" target="45QVfa8bo4PqeAlVVx9p-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="45QVfa8bo4PqeAlVVx9p-12" target="45QVfa8bo4PqeAlVVx9p-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="45QVfa8bo4PqeAlVVx9p-12" value="登录后台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="460" width="120" height="60" as="geometry" />
         </mxCell>
