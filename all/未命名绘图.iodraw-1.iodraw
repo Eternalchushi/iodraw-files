@@ -130,20 +130,26 @@
         <mxCell id="45QVfa8bo4PqeAlVVx9p-39" value="聚类分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="45QVfa8bo4PqeAlVVx9p-45" target="45QVfa8bo4PqeAlVVx9p-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="45QVfa8bo4PqeAlVVx9p-45" value="获取预测数据参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1520" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="45QVfa8bo4PqeAlVVx9p-46" target="45QVfa8bo4PqeAlVVx9p-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45QVfa8bo4PqeAlVVx9p-46" value="获取数据库历史数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1620" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="45QVfa8bo4PqeAlVVx9p-47" value="训练随机森林模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1724" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="1724" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="45QVfa8bo4PqeAlVVx9p-48" value="训练线性回归模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1724" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="1724" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="45QVfa8bo4PqeAlVVx9p-49" value="生成预测结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1840" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
