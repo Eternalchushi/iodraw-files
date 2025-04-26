@@ -136,6 +136,9 @@
         <mxCell id="45QVfa8bo4PqeAlVVx9p-46" value="获取数据库历史数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-47" value="获取预测数据参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1724" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
