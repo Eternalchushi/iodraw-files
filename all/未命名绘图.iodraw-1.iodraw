@@ -137,10 +137,10 @@
           <mxGeometry x="330" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="45QVfa8bo4PqeAlVVx9p-47" value="训练随机森林模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1724" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="1724" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="45QVfa8bo4PqeAlVVx9p-48" value="获取预测数据参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1550" width="120" height="60" as="geometry" />
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-48" value="训练线性回归模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1724" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
