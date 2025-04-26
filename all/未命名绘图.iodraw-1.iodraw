@@ -174,7 +174,7 @@
         <mxCell id="45QVfa8bo4PqeAlVVx9p-58" value="聚类分析报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="2050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="45QVfa8bo4PqeAlVVx9p-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-59" value="汇总分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="2170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
