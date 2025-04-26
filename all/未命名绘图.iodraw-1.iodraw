@@ -70,7 +70,7 @@
         <mxCell id="45QVfa8bo4PqeAlVVx9p-19" value="退出后台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="45QVfa8bo4PqeAlVVx9p-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-25" value="数据采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
