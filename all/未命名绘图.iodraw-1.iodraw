@@ -10,6 +10,9 @@
         <mxCell id="45QVfa8bo4PqeAlVVx9p-2" value="进入首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-3" value="进入首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
