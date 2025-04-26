@@ -49,8 +49,14 @@
         <mxCell id="45QVfa8bo4PqeAlVVx9p-12" value="登录后台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="45QVfa8bo4PqeAlVVx9p-13" target="45QVfa8bo4PqeAlVVx9p-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="45QVfa8bo4PqeAlVVx9p-13" value="管理用户信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="45QVfa8bo4PqeAlVVx9p-14" target="45QVfa8bo4PqeAlVVx9p-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45QVfa8bo4PqeAlVVx9p-14" value="管理公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="560" width="120" height="60" as="geometry" />
