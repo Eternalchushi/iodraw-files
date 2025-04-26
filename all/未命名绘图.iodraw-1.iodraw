@@ -103,6 +103,15 @@
         <mxCell id="45QVfa8bo4PqeAlVVx9p-34" value="获取数据参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="45QVfa8bo4PqeAlVVx9p-35" target="45QVfa8bo4PqeAlVVx9p-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="45QVfa8bo4PqeAlVVx9p-35" target="45QVfa8bo4PqeAlVVx9p-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45QVfa8bo4PqeAlVVx9p-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="45QVfa8bo4PqeAlVVx9p-35" target="45QVfa8bo4PqeAlVVx9p-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="45QVfa8bo4PqeAlVVx9p-35" value="查询相关数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
