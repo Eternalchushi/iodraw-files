@@ -209,7 +209,7 @@
           <mxGeometry x="650" y="330" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a-jTgYHPUDIpQdrYWenX-72" value="研究趋势分析报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="330" width="20" height="120" as="geometry" />
+          <mxGeometry x="710" y="330" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a-jTgYHPUDIpQdrYWenX-73" value="需求图谱分析报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="330" width="20" height="120" as="geometry" />
@@ -221,10 +221,10 @@
           <mxGeometry x="801" y="330" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a-jTgYHPUDIpQdrYWenX-76" value="需求预测分析报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="834" y="330" width="20" height="120" as="geometry" />
+          <mxGeometry x="830" y="330" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a-jTgYHPUDIpQdrYWenX-77" value="报告总结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="857" y="330" width="20" height="120" as="geometry" />
+          <mxGeometry x="850" y="330" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
