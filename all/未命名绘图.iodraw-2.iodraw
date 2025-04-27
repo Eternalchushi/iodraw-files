@@ -7,7 +7,7 @@
         <mxCell id="a-jTgYHPUDIpQdrYWenX-1" value="&lt;span id=&quot;boardmix-data-meta&quot;&gt;&lt;/span&gt;&lt;span id=&quot;boardmix-data-buffer&quot;&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a-jTgYHPUDIpQdrYWenX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="a-jTgYHPUDIpQdrYWenX-4" target="a-jTgYHPUDIpQdrYWenX-5">
+        <mxCell id="a-jTgYHPUDIpQdrYWenX-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-jTgYHPUDIpQdrYWenX-4" target="a-jTgYHPUDIpQdrYWenX-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a-jTgYHPUDIpQdrYWenX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-jTgYHPUDIpQdrYWenX-4" target="a-jTgYHPUDIpQdrYWenX-7">
