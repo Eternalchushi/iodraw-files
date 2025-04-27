@@ -61,8 +61,8 @@
         <mxCell id="a-jTgYHPUDIpQdrYWenX-25" value="用户信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="290" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="a-jTgYHPUDIpQdrYWenX-26" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="320" width="20" height="120" as="geometry" />
+        <mxCell id="a-jTgYHPUDIpQdrYWenX-26" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="290" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
