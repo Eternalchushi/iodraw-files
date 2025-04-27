@@ -7,8 +7,14 @@
         <mxCell id="a-jTgYHPUDIpQdrYWenX-1" value="&lt;span id=&quot;boardmix-data-meta&quot;&gt;&lt;/span&gt;&lt;span id=&quot;boardmix-data-buffer&quot;&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="a-jTgYHPUDIpQdrYWenX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a-jTgYHPUDIpQdrYWenX-4" target="a-jTgYHPUDIpQdrYWenX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a-jTgYHPUDIpQdrYWenX-4" value="购房需求分析系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-jTgYHPUDIpQdrYWenX-5" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
