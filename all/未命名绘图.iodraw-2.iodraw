@@ -149,16 +149,16 @@
           <mxGeometry x="307" y="330" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a-jTgYHPUDIpQdrYWenX-53" value="搜索指数预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="330" width="20" height="120" as="geometry" />
+          <mxGeometry x="352" y="330" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a-jTgYHPUDIpQdrYWenX-54" value="人群特征预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="330" width="20" height="120" as="geometry" />
+          <mxGeometry x="386" y="330" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a-jTgYHPUDIpQdrYWenX-55" value="兴趣分布预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="330" width="20" height="120" as="geometry" />
+          <mxGeometry x="422" y="330" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a-jTgYHPUDIpQdrYWenX-56" value="地域分布预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="330" width="20" height="120" as="geometry" />
+          <mxGeometry x="456" y="330" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
