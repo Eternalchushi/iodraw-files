@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nkEzAs8T-ZgGMN32KG3B-1" value="用户界面层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nkEzAs8T-ZgGMN32KG3B-2" value="应用服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="220" width="720" height="60" as="geometry" />
@@ -28,11 +28,8 @@
         <mxCell id="nkEzAs8T-ZgGMN32KG3B-8" value="报告总结模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nkEzAs8T-ZgGMN32KG3B-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nkEzAs8T-ZgGMN32KG3B-1" target="nkEzAs8T-ZgGMN32KG3B-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="nkEzAs8T-ZgGMN32KG3B-10" value="用户界面层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
