@@ -29,12 +29,18 @@
           <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nkEzAs8T-ZgGMN32KG3B-10" value="数据存储层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nkEzAs8T-ZgGMN32KG3B-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nkEzAs8T-ZgGMN32KG3B-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="220" as="sourcePoint" />
             <mxPoint x="420" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nkEzAs8T-ZgGMN32KG3B-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nkEzAs8T-ZgGMN32KG3B-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="390" as="sourcePoint" />
+            <mxPoint x="420" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
