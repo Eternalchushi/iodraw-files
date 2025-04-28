@@ -146,7 +146,7 @@
         <mxCell id="yEnMczRXqL78P8xBoi1Q-51" value="获取历史数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="1740" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yEnMczRXqL78P8xBoi1Q-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yEnMczRXqL78P8xBoi1Q-52" target="yEnMczRXqL78P8xBoi1Q-53">
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yEnMczRXqL78P8xBoi1Q-52" target="yEnMczRXqL78P8xBoi1Q-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yEnMczRXqL78P8xBoi1Q-52" target="yEnMczRXqL78P8xBoi1Q-54">
@@ -162,7 +162,7 @@
           <mxGeometry x="227.5" y="1850" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-53" value="训练搜索指数预测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-27.5" y="1960" width="145" height="60" as="geometry" />
+          <mxGeometry x="-20" y="1960" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-54" value="训练兴趣分布预测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="147.5" y="1960" width="145" height="60" as="geometry" />
