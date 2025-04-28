@@ -46,7 +46,7 @@
             <mxPoint x="430" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yEnMczRXqL78P8xBoi1Q-19" value="数据分析处理" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-19" value="计算相关词权重" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="160" y="910" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
