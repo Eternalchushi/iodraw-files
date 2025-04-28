@@ -197,6 +197,9 @@
         <mxCell id="yEnMczRXqL78P8xBoi1Q-58" value="可视化处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="2160" width="145" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yEnMczRXqL78P8xBoi1Q-59" target="yEnMczRXqL78P8xBoi1Q-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-59" value="生成预测报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="2250" width="145" height="60" as="geometry" />
         </mxCell>
