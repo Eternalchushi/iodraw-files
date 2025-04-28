@@ -129,7 +129,7 @@
           <mxGeometry x="5" y="5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="275" y="1550" width="50" height="50" as="geometry" />
+          <mxGeometry x="275" y="1540" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-50" value="选择预测的范围及关键词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="1620" width="145" height="60" as="geometry" />
@@ -151,6 +151,9 @@
         </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-56" value="使用随机波动算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482.5" y="1960" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-57" value="训练搜索指数预测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-17.5" y="1970" width="145" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
