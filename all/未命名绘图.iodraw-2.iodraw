@@ -29,7 +29,7 @@
           <mxGeometry x="270" y="450" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="260" y="570" width="100" height="60" as="geometry" />
+          <mxGeometry x="245" y="530" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
