@@ -31,6 +31,9 @@
         <mxCell id="yEnMczRXqL78P8xBoi1Q-13" value="需求图谱数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="245" y="530" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-14" value="需求图谱数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="255" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
