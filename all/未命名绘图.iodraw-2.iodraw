@@ -152,8 +152,8 @@
         <mxCell id="yEnMczRXqL78P8xBoi1Q-56" value="使用随机波动算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482.5" y="1960" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yEnMczRXqL78P8xBoi1Q-57" value="训练搜索指数预测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-17.5" y="1970" width="145" height="60" as="geometry" />
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-57" value="生成预测结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="2070" width="145" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
