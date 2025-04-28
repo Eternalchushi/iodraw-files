@@ -128,14 +128,35 @@
         <mxCell id="yEnMczRXqL78P8xBoi1Q-45" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" vertex="1" parent="yEnMczRXqL78P8xBoi1Q-47">
           <mxGeometry x="5" y="5" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yEnMczRXqL78P8xBoi1Q-49" target="yEnMczRXqL78P8xBoi1Q-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="275" y="1540" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yEnMczRXqL78P8xBoi1Q-50" target="yEnMczRXqL78P8xBoi1Q-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-50" value="选择预测的范围及关键词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="1620" width="145" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yEnMczRXqL78P8xBoi1Q-51" target="yEnMczRXqL78P8xBoi1Q-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-51" value="获取历史数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="1740" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yEnMczRXqL78P8xBoi1Q-52" target="yEnMczRXqL78P8xBoi1Q-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yEnMczRXqL78P8xBoi1Q-52" target="yEnMczRXqL78P8xBoi1Q-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yEnMczRXqL78P8xBoi1Q-52" target="yEnMczRXqL78P8xBoi1Q-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yEnMczRXqL78P8xBoi1Q-52" target="yEnMczRXqL78P8xBoi1Q-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-52" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="1850" width="145" height="60" as="geometry" />
@@ -156,7 +177,22 @@
           <mxGeometry x="227.5" y="2070" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-58" value="可视化处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="227.5" y="2180" width="145" height="60" as="geometry" />
+          <mxGeometry x="227.5" y="2160" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-59" value="生成预测报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="2250" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-60" value="展示在前端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="2338" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-61" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="2430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-62" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="yEnMczRXqL78P8xBoi1Q-61">
+          <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-63" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" vertex="1" parent="yEnMczRXqL78P8xBoi1Q-61">
+          <mxGeometry x="5" y="5" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
