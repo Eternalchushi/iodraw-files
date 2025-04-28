@@ -956,10 +956,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wGQUnU9pAX06wYo5vI-X-341" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.491;exitY=1.058;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wGQUnU9pAX06wYo5vI-X-126">
+        <mxCell id="wGQUnU9pAX06wYo5vI-X-341" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.491;exitY=1.058;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.936;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wGQUnU9pAX06wYo5vI-X-126" target="wGQUnU9pAX06wYo5vI-X-327">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="800" as="sourcePoint" />
             <mxPoint x="300" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGQUnU9pAX06wYo5vI-X-342" value="查看" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wGQUnU9pAX06wYo5vI-X-341">
+          <mxGeometry x="-0.0886" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
