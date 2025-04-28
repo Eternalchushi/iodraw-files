@@ -55,7 +55,7 @@
         <mxCell id="yEnMczRXqL78P8xBoi1Q-23" value="计算变化率" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="355" y="910" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yEnMczRXqL78P8xBoi1Q-24" value="计算相似度矩阵" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-24" value="生成关系网" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="135" y="1010" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
