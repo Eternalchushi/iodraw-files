@@ -149,6 +149,9 @@
         <mxCell id="yEnMczRXqL78P8xBoi1Q-55" value="训练地域分布预测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="1960" width="145" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-56" value="训练兴趣分布预测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="2040" width="145" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
