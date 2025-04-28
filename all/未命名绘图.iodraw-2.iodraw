@@ -25,6 +25,9 @@
         <mxCell id="yEnMczRXqL78P8xBoi1Q-4" value="用户信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-33" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yEnMczRXqL78P8xBoi1Q-10" target="yEnMczRXqL78P8xBoi1Q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="270" y="450" width="50" height="50" as="geometry" />
         </mxCell>
