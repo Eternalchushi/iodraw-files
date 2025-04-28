@@ -46,6 +46,11 @@
         <mxCell id="yEnMczRXqL78P8xBoi1Q-15" value="数据存储到数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="245" y="720" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yEnMczRXqL78P8xBoi1Q-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-16" value="数据分析处理" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="245" y="810" width="100" height="60" as="geometry" />
         </mxCell>
