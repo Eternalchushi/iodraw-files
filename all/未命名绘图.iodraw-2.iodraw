@@ -135,7 +135,10 @@
           <mxGeometry x="227.5" y="1620" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-51" value="获取历史数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="1730" width="145" height="60" as="geometry" />
+          <mxGeometry x="227.5" y="1740" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-52" value="获取历史数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="1850" width="145" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
