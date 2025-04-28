@@ -135,7 +135,7 @@
           <mxGeometry x="227.5" y="1620" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-51" value="选择预测的范围及关键词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="112.5" y="1724" width="145" height="60" as="geometry" />
+          <mxGeometry x="235" y="1730" width="145" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
