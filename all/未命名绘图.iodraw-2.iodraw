@@ -908,7 +908,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wGQUnU9pAX06wYo5vI-X-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wGQUnU9pAX06wYo5vI-X-284" target="wGQUnU9pAX06wYo5vI-X-219">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-182" y="695" />
+              <mxPoint x="-182" y="890" />
+              <mxPoint x="-290" y="890" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
