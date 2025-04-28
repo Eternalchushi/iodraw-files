@@ -938,9 +938,9 @@
             <mxPoint x="-270" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wGQUnU9pAX06wYo5vI-X-334" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wGQUnU9pAX06wYo5vI-X-333">
-          <mxGeometry x="-0.2039" y="6" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+        <mxCell id="wGQUnU9pAX06wYo5vI-X-335" value="选择查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wGQUnU9pAX06wYo5vI-X-333">
+          <mxGeometry x="-0.0173" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
