@@ -46,9 +46,6 @@
             <mxPoint x="430" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yEnMczRXqL78P8xBoi1Q-22" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yEnMczRXqL78P8xBoi1Q-19" target="yEnMczRXqL78P8xBoi1Q-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-19" value="计算相关词权重" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="160" y="910" width="100" height="60" as="geometry" />
         </mxCell>
