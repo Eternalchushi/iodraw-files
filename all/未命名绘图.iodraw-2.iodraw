@@ -155,6 +155,9 @@
         <mxCell id="yEnMczRXqL78P8xBoi1Q-57" value="生成预测结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="2070" width="145" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yEnMczRXqL78P8xBoi1Q-58" value="可视化处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="2180" width="145" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
