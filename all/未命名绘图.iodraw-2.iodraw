@@ -35,7 +35,7 @@
           <mxGeometry x="245" y="630" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yEnMczRXqL78P8xBoi1Q-15" value="数据存储到数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="250" y="720" width="100" height="60" as="geometry" />
+          <mxGeometry x="250" y="720" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
