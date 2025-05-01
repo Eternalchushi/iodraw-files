@@ -397,14 +397,23 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-154" target="8n_LImQwLsPoQsdjF6FU-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-154" target="8n_LImQwLsPoQsdjF6FU-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-154" target="8n_LImQwLsPoQsdjF6FU-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-154" target="8n_LImQwLsPoQsdjF6FU-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-154" value="查询相关数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="69.5" y="3260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-155" value="研究趋势" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="3340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-160" y="3400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-156" value="需求图谱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="3340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-10" y="3370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-157" value="人群画像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142.5" y="3340" width="120" height="60" as="geometry" />
