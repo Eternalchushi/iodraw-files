@@ -288,19 +288,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-106" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="2000" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-107" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="2000" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-108" value="公告管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="2000" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-109" value="数据管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="2000" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-110" value="关键词配置管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="2000" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-111" value="关键词配置管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
