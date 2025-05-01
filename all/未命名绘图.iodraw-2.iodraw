@@ -316,6 +316,9 @@
             <mxPoint x="540" y="2040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-114" target="8n_LImQwLsPoQsdjF6FU-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-114" value="执行管理操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
@@ -325,8 +328,14 @@
             <mxPoint x="180" y="2050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-116" target="8n_LImQwLsPoQsdjF6FU-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-116" value="查看操作结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="72.5" y="2180" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="2180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-118" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
