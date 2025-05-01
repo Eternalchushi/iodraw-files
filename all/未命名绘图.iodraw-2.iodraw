@@ -343,6 +343,9 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-122" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="107.5" y="2540" width="45" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-136" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="2508" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
