@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-72" value="生成分析报告" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-75" target="8n_LImQwLsPoQsdjF6FU-77">
           <mxGeometry relative="1" as="geometry" />
@@ -214,14 +214,14 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-77" value="使用机器学习模型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="171.25" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8n_LImQwLsPoQsdjF6FU-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-78" target="8n_LImQwLsPoQsdjF6FU-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-78" value="生成预测" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="171.25" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-80" value="生成预测分析报告" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="171.25" y="1340" width="120" height="60" as="geometry" />
+          <mxGeometry x="171.25" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-87" target="8n_LImQwLsPoQsdjF6FU-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-87" value="数据可视化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1270" width="120" height="60" as="geometry" />
@@ -231,6 +231,9 @@
             <mxPoint y="1240" as="sourcePoint" />
             <mxPoint x="60" y="1240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-90" value="生成预测" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="181.25" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
