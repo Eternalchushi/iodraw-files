@@ -317,13 +317,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-114" value="执行管理操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="72.5" y="2090" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-115" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="8n_LImQwLsPoQsdjF6FU-114">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="2040" as="sourcePoint" />
             <mxPoint x="180" y="2050" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-116" value="执行管理操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
