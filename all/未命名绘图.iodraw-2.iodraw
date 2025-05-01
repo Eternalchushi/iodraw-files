@@ -22,6 +22,9 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-4" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-5" target="8n_LImQwLsPoQsdjF6FU-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-5" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -29,10 +32,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-6" value="数据预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-7" value="数据可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-8" target="8n_LImQwLsPoQsdjF6FU-9">
           <mxGeometry relative="1" as="geometry" />
@@ -45,6 +48,9 @@
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-9" value="获取历史数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-18" target="8n_LImQwLsPoQsdjF6FU-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-18" value="数据建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="300" width="120" height="60" as="geometry" />
