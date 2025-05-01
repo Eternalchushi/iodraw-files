@@ -136,6 +136,9 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-44" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="980" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-45" target="8n_LImQwLsPoQsdjF6FU-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-45" value="需求预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="171.25" y="980" width="120" height="60" as="geometry" />
         </mxCell>
@@ -195,6 +198,12 @@
             <mxPoint y="1240" as="sourcePoint" />
             <mxPoint x="190" y="1250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-75" value="选择参数" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="171.25" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-77" value="选择参数" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="181.25" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
