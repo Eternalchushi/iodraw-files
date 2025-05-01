@@ -535,7 +535,7 @@
           <mxGeometry x="221.5" y="5020" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-213" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="368.5" y="5066.5" width="200" height="90" as="geometry" />
+          <mxGeometry x="362.75" y="5072.25" width="211.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-214" value="Flask-Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="433.5" y="5050" width="70" height="31" as="geometry" />
@@ -547,7 +547,7 @@
           <mxGeometry x="428.5" y="5020" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-217" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="433.5" y="5170" width="70" height="31" as="geometry" />
+          <mxGeometry x="433.5" y="5180" width="70" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
