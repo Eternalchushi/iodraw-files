@@ -528,8 +528,8 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-206" value="HTML/CSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="211.5" y="5040" width="70" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="8n_LImQwLsPoQsdjF6FU-207" value="HTML/CSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="221.5" y="5050" width="70" height="31" as="geometry" />
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-207" value="JavaScript" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="211.5" y="5118" width="70" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
