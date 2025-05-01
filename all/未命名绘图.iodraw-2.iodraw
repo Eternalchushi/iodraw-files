@@ -260,6 +260,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-100" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8n_LImQwLsPoQsdjF6FU-99">
+          <mxGeometry x="-0.0856" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-97" value="验证权限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
