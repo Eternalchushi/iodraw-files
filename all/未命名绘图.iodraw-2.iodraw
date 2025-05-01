@@ -278,6 +278,11 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-97" value="验证权限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="132.5" y="1960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-103" value="进入后台首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
