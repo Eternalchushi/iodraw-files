@@ -97,22 +97,22 @@
           <mxGeometry x="242.5" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-39" value="数据采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="32.5" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="-106.25" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-44" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="31.25" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-45" value="需求预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="171.25" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-46" value="报告总结" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="311.25" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-47" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="451.25" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8n_LImQwLsPoQsdjF6FU-48" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="990" width="120" height="60" as="geometry" />
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-48" value="系统公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="591.25" y="980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
