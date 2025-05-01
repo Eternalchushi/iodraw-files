@@ -125,9 +125,6 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-39" value="数据采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8n_LImQwLsPoQsdjF6FU-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-44" target="8n_LImQwLsPoQsdjF6FU-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-44" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="980" width="120" height="60" as="geometry" />
         </mxCell>
