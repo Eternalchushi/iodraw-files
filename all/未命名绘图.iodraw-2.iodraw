@@ -346,7 +346,7 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-136" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="105" y="2510" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8n_LImQwLsPoQsdjF6FU-137" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-137" value="创建采集任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="2610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
