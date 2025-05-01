@@ -468,6 +468,9 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-182" value="获取历史数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="3970" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-183" value="使用机器学习模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="4062" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
