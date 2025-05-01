@@ -125,6 +125,11 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-39" value="数据采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="980" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-44" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="980" width="120" height="60" as="geometry" />
         </mxCell>
@@ -176,7 +181,7 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-69" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="-130" y="1240" as="sourcePoint" />
-            <mxPoint x="-30" y="1240" as="targetPoint" />
+            <mxPoint x="140" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
