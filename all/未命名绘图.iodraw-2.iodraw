@@ -460,7 +460,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-180" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="117.5" y="3010" width="45" height="45" as="geometry" />
+          <mxGeometry x="110" y="3790" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-181" value="获取预测参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="3870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
