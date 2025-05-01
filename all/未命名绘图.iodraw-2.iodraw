@@ -352,11 +352,8 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-138" value="启动采集任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="2700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8n_LImQwLsPoQsdjF6FU-139" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="2790" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-140" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="2870" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="2790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-141" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="2950" width="120" height="60" as="geometry" />
