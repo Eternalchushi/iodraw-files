@@ -394,9 +394,6 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-153" value="获取历史数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="69.5" y="3170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8n_LImQwLsPoQsdjF6FU-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-154" target="8n_LImQwLsPoQsdjF6FU-155">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-154" target="8n_LImQwLsPoQsdjF6FU-156">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -448,7 +445,7 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-174" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="-160" y="3590" as="sourcePoint" />
-            <mxPoint x="-60" y="3590" as="targetPoint" />
+            <mxPoint x="420" y="3590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
