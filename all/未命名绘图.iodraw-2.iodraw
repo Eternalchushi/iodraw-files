@@ -241,9 +241,6 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-90" value="数据可视化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="171.25" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8n_LImQwLsPoQsdjF6FU-93" value="系统公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="980" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
