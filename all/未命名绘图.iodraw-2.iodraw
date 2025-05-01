@@ -526,10 +526,13 @@
           <mxGeometry x="158" y="5055" width="177" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-206" value="HTML/CSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="211.5" y="5040" width="70" height="31" as="geometry" />
+          <mxGeometry x="211.5" y="5050" width="70" height="31" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-207" value="JavaScript" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="211.5" y="5118" width="70" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-208" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="5018" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
