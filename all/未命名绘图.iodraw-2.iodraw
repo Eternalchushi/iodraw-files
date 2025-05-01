@@ -70,10 +70,10 @@
           <mxGeometry x="267.5" y="550" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-30" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="147.5" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-31" value="注册登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
