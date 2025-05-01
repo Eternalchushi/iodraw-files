@@ -78,6 +78,9 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-30" target="8n_LImQwLsPoQsdjF6FU-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-30" target="8n_LImQwLsPoQsdjF6FU-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-30" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="680" width="120" height="60" as="geometry" />
         </mxCell>
@@ -113,6 +116,9 @@
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-48" value="系统公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="591.25" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-49" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
