@@ -365,7 +365,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-140" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="2790" width="120" height="60" as="geometry" />
+          <mxGeometry x="73" y="2790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-141" target="8n_LImQwLsPoQsdjF6FU-142">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-141" value="数据标准化和归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="2880" width="120" height="60" as="geometry" />
