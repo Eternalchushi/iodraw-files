@@ -223,7 +223,7 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-80" value="生成预测分析报告" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="171.25" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8n_LImQwLsPoQsdjF6FU-87" value="&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8n_LImQwLsPoQsdjF6FU-87" value="数据可视化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
