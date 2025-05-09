@@ -47,6 +47,13 @@
         <mxCell id="zd5pw_7cvRnhCP4lZJJV-6" value="请求是否成功" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="400" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="zd5pw_7cvRnhCP4lZJJV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zd5pw_7cvRnhCP4lZJJV-7" target="zd5pw_7cvRnhCP4lZJJV-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zd5pw_7cvRnhCP4lZJJV-7" value="记录错误日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -69,7 +76,7 @@
           <mxGeometry x="350" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zd5pw_7cvRnhCP4lZJJV-24" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="399" y="890" width="30" height="30" as="geometry" />
+          <mxGeometry x="395" y="660" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
