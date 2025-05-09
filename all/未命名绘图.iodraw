@@ -10,8 +10,8 @@
         <mxCell id="zd5pw_7cvRnhCP4lZJJV-2" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zd5pw_7cvRnhCP4lZJJV-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="zd5pw_7cvRnhCP4lZJJV-3" value="构造HTTP请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
