@@ -13,14 +13,20 @@
         <mxCell id="zd5pw_7cvRnhCP4lZJJV-2" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="60" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zd5pw_7cvRnhCP4lZJJV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zd5pw_7cvRnhCP4lZJJV-3" target="zd5pw_7cvRnhCP4lZJJV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zd5pw_7cvRnhCP4lZJJV-3" value="构造HTTP请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zd5pw_7cvRnhCP4lZJJV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zd5pw_7cvRnhCP4lZJJV-4" target="zd5pw_7cvRnhCP4lZJJV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zd5pw_7cvRnhCP4lZJJV-4" value="发送请求到百度指数API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="400" width="140" height="60" as="geometry" />
+          <mxGeometry x="340" y="360" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zd5pw_7cvRnhCP4lZJJV-6" value="请求是否成功" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="490" width="120" height="50" as="geometry" />
+          <mxGeometry x="350" y="460" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zd5pw_7cvRnhCP4lZJJV-7" value="记录错误日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="580" width="120" height="60" as="geometry" />
