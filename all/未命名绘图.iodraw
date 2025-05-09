@@ -22,9 +22,6 @@
         <mxCell id="zd5pw_7cvRnhCP4lZJJV-7" value="记录错误日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zd5pw_7cvRnhCP4lZJJV-8" value="退出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="555" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
