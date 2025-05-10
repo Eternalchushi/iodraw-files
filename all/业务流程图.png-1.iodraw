@@ -626,6 +626,9 @@
         <mxCell id="kQDIVS38FyFPunpn-7da-7" value="查看或修改个人信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="508.5" y="957" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kQDIVS38FyFPunpn-7da-9" target="kQDIVS38FyFPunpn-7da-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kQDIVS38FyFPunpn-7da-9" value="查看系统公告" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="649.25" y="954" width="120" height="60" as="geometry" />
         </mxCell>
