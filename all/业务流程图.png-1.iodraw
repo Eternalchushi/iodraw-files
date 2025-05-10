@@ -154,6 +154,9 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-46" value="报告总结" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="369.25" y="857" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-47" target="kQDIVS38FyFPunpn-7da-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-47" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="509.25" y="857" width="120" height="60" as="geometry" />
         </mxCell>
@@ -578,6 +581,9 @@
         </mxCell>
         <mxCell id="kQDIVS38FyFPunpn-7da-6" value="查看总结与建议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="957" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-7" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="508.5" y="957" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
