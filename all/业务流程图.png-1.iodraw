@@ -151,6 +151,9 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-45" value="需求预测" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="229.25" y="857" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-46" target="kQDIVS38FyFPunpn-7da-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-46" value="报告总结" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="369.25" y="857" width="120" height="60" as="geometry" />
         </mxCell>
@@ -159,6 +162,9 @@
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-47" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="509.25" y="857" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-48" target="kQDIVS38FyFPunpn-7da-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-48" value="系统公告" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="649.25" y="857" width="120" height="60" as="geometry" />
@@ -174,6 +180,9 @@
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-57" value="调用爬虫程序" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-212" y="1037" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-59" target="kQDIVS38FyFPunpn-7da-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-59" value="数据采集处理" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-212" y="1127" width="120" height="60" as="geometry" />
