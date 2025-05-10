@@ -216,7 +216,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kQDIVS38FyFPunpn-7da-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-72" target="kQDIVS38FyFPunpn-7da-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="58" y="1426" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-72" value="生成分析报告" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-2" y="1237" width="120" height="60" as="geometry" />
@@ -238,6 +242,13 @@
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-78" value="生成预测数据" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="229.25" y="1127" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-80" target="kQDIVS38FyFPunpn-7da-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="289" y="1426" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-80" value="生成预测分析报告" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="229.25" y="1287" width="120" height="60" as="geometry" />
