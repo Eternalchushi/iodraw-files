@@ -406,6 +406,9 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-141" value="数据标准化和归一化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="443.5" y="2680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-142" target="kQDIVS38FyFPunpn-7da-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-142" value="数据存储" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="443.5" y="2770" width="120" height="60" as="geometry" />
         </mxCell>
@@ -644,6 +647,9 @@
         </mxCell>
         <mxCell id="kQDIVS38FyFPunpn-7da-20" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="488" y="2850" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-22" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="115" y="3707" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
