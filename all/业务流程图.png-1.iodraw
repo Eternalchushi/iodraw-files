@@ -558,6 +558,9 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-197" value="汇总分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="69.5" y="4700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-198" target="kQDIVS38FyFPunpn-7da-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-198" value="生成总结和建议" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="69.5" y="4800" width="120" height="60" as="geometry" />
         </mxCell>
@@ -658,7 +661,10 @@
           <mxGeometry x="115" y="3716" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQDIVS38FyFPunpn-7da-24" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="116" y="4412" width="30" height="30" as="geometry" />
+          <mxGeometry x="114.5" y="4418" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-26" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="108" y="4890" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
