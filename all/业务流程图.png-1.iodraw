@@ -367,6 +367,9 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-116" value="查看操作结果" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="218" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-118" target="kQDIVS38FyFPunpn-7da-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-118" value="退出后台管理系统" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="218" y="2180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -635,6 +638,9 @@
         </mxCell>
         <mxCell id="kQDIVS38FyFPunpn-7da-9" value="查看系统公告" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="649.25" y="954" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-18" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="266" y="2273" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
