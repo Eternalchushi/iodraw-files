@@ -574,7 +574,7 @@
           <mxGeometry x="-89" y="315" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQDIVS38FyFPunpn-7da-4" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1514" width="30" height="30" as="geometry" />
+          <mxGeometry x="375" y="1565" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
