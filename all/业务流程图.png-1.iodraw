@@ -576,6 +576,9 @@
         <mxCell id="kQDIVS38FyFPunpn-7da-5" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="346" y="1411" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="957" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
