@@ -37,8 +37,14 @@
         <mxCell id="5vvTPAoiWWBv6RV2Danz-10" value="数据理解与定位" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="359" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9ObA1Z6I20y0lP5qFmdM-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9ObA1Z6I20y0lP5qFmdM-0" target="5vvTPAoiWWBv6RV2Danz-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9ObA1Z6I20y0lP5qFmdM-0" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="101" y="135" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ObA1Z6I20y0lP5qFmdM-1" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="101" y="258" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
