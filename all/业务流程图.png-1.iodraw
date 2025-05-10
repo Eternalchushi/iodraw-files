@@ -534,6 +534,9 @@
         <mxCell id="8n_LImQwLsPoQsdjF6FU-185" value="可视化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="71" y="4240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-186" target="kQDIVS38FyFPunpn-7da-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-186" value="生成预测分析报告" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70.5" y="4330" width="120" height="60" as="geometry" />
         </mxCell>
@@ -653,6 +656,9 @@
         </mxCell>
         <mxCell id="kQDIVS38FyFPunpn-7da-22" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="115" y="3716" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-24" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="116" y="4412" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
