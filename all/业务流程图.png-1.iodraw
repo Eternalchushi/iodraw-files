@@ -486,6 +486,9 @@
             <mxPoint x="419.5" y="3380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kQDIVS38FyFPunpn-7da-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8n_LImQwLsPoQsdjF6FU-177" target="kQDIVS38FyFPunpn-7da-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8n_LImQwLsPoQsdjF6FU-177" value="生成分析报告" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="69.5" y="3630" width="120" height="60" as="geometry" />
         </mxCell>
@@ -649,7 +652,7 @@
           <mxGeometry x="488" y="2850" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQDIVS38FyFPunpn-7da-22" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="115" y="3707" width="30" height="30" as="geometry" />
+          <mxGeometry x="115" y="3716" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
