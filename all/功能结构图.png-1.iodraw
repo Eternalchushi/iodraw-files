@@ -245,14 +245,6 @@
         <mxCell id="a-jTgYHPUDIpQdrYWenX-86" value="管理公告信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="614" y="839" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="kdVzvTqNbIM8q9C586dq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kdVzvTqNbIM8q9C586dq-1" target="a-jTgYHPUDIpQdrYWenX-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="414" y="626" />
-              <mxPoint x="215" y="626" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kdVzvTqNbIM8q9C586dq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kdVzvTqNbIM8q9C586dq-1" target="a-jTgYHPUDIpQdrYWenX-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
