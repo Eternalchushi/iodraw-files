@@ -968,7 +968,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_UGL3x-W1IUxGG1Zikxa-1" value="user" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="320" width="180" height="210" as="geometry">
+          <mxGeometry x="-335" y="326" width="180" height="210" as="geometry">
             <mxRectangle x="200" y="420" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
